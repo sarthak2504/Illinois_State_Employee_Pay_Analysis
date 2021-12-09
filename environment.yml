@@ -7,6 +7,6 @@ dependencies:
   - pip:
     - pandas
     - matplotlib
-    - ipywidgets
     - bqplot
+    - ipywidgets
     
