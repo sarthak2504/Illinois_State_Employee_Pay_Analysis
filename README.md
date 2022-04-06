@@ -19,3 +19,23 @@
 #### NOTE: To experiene and play around with the interactivity, please download the Sarthak_Bhingarde_Project_Part3.ipynb and Restart and Run all cells.
 
 ![image](https://user-images.githubusercontent.com/74734092/162032533-b4a24010-dc77-4fe8-a4a8-3c03669c6e5e.png) ![image](https://user-images.githubusercontent.com/74734092/162032694-ae83b8e2-0cdd-484a-ad4f-6f1b6470c452.png)
+
+#### Now comes another dataset, since I selected the State Police earlier, lets have a look at a contextual dataset of Illinois State Police.
+
+#### This is a horizontal bar chart of the average salaries across different police titles in the state of Illinois.
+#### As we can see below, there are so many different titles existing inside the police department. Here, each bar represents the actual salaries that are being paid to these police personnel. If we look closely, we can see that there are two major titles that stand out, "Suerintendent Highway Police" and "Asst Deputy Director (Sworn)" that receive the maximum salary among all the other titles. We can also see that lowest salaries are received by "Trainee's".
+#### The following bar chart helps us get a deeper understanding into salaries received by different police personnel titles
+
+![image](https://user-images.githubusercontent.com/74734092/162033886-30cc1a83-5838-4317-b3ef-e0164c665c6c.png)
+
+
+#### Here we are having a look at bilingual requirements and their data in the Illinois government. The Illinois government conducts an annual assessment of all agencies regarding their need for employees with bilingual capabilities to serve significant numbers of non-English speaking or culturally distinct persons.
+#### The following image indicates the bilingual interactions conducted by each agency in the state of Illinois
+![image.png](attachment:image.png)
+#### The following image indicates the bilingual jobs in the state of Illinois
+![image-2.png](attachment:image-2.png)
+#### The following chart indicates the number of employees by language who are receiving bilingual pay.
+![image-3.png](attachment:image-3.png)
+
+#### Note: The above charts are sourced from https://www2.illinois.gov/cms/personnel/DEP/Plans/Documents/pdfs/2020_BNBP_Report.pdf
+
