@@ -31,11 +31,11 @@
 
 #### Here we are having a look at bilingual requirements and their data in the Illinois government. The Illinois government conducts an annual assessment of all agencies regarding their need for employees with bilingual capabilities to serve significant numbers of non-English speaking or culturally distinct persons.
 #### The following image indicates the bilingual interactions conducted by each agency in the state of Illinois
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/74734092/162034516-535ec79e-c25d-4fa8-81a6-80c595797d42.png)
 #### The following image indicates the bilingual jobs in the state of Illinois
-![image-2.png](attachment:image-2.png)
+![image](https://user-images.githubusercontent.com/74734092/162034621-ff1a160d-4688-437f-b052-d95e3970ef4d.png)
 #### The following chart indicates the number of employees by language who are receiving bilingual pay.
-![image-3.png](attachment:image-3.png)
+![image](https://user-images.githubusercontent.com/74734092/162034673-88c17a9e-a2e2-474c-8e2a-08b0bad4a4ca.png)
 
 #### Note: The above charts are sourced from https://www2.illinois.gov/cms/personnel/DEP/Plans/Documents/pdfs/2020_BNBP_Report.pdf
 
