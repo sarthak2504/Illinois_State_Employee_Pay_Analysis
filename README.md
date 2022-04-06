@@ -18,6 +18,4 @@
 #### So to sum it all up, the Heatmap gives us the average salaries of all the employees in a particular agency and in a particular year. The Pie plot gives us the number of employees across all the agencies in the year selected in the Heatmap.
 #### NOTE: To experiene and play around with the interactivity, please download the Sarthak_Bhingarde_Project_Part3.ipynb and Restart and Run all cells.
 
-![image](https://user-images.githubusercontent.com/74734092/162032533-b4a24010-dc77-4fe8-a4a8-3c03669c6e5e.png)
-
-![image](https://user-images.githubusercontent.com/74734092/162032694-ae83b8e2-0cdd-484a-ad4f-6f1b6470c452.png)
+![image](https://user-images.githubusercontent.com/74734092/162032533-b4a24010-dc77-4fe8-a4a8-3c03669c6e5e.png) ![image](https://user-images.githubusercontent.com/74734092/162032694-ae83b8e2-0cdd-484a-ad4f-6f1b6470c452.png)
