@@ -39,3 +39,15 @@
 
 #### Note: The above charts are sourced from https://www2.illinois.gov/cms/personnel/DEP/Plans/Documents/pdfs/2020_BNBP_Report.pdf
 
+#### Now we will have a look at another contextual dataset which highlights the salaries received by employees of the New York State Authorities.
+
+#### The following horizontal bar chart helps us to understand the salaries received by different state authorities in the New York State.
+#### We can see that Nassau County has the highest average salary which is approximately 140,000 USD. 
+#### This dataset mainly illustrates the salaries received by different state authorities in the state of new york. This helps us to know how the state authorities in New York are paid, what is their salary range as compare to the state of Illinois.
+
+![image](https://user-images.githubusercontent.com/74734092/162034360-a7f18329-7ae7-4232-a2b3-ed91ad7ca52a.png)
+
+#### Hence, to sum it all up we have analysed the Illinois state employee pay dataset and have identified the average salary from 2011 to 2021. We also played around with an interactive dashboard consisting of a Heatmap and a Pie plot identifying the average pay across agencies and number of employees in each agency.
+#### We then moved to contextual datasets with the Illinois state police dataset for 2019 and saw their salary distribution across different titles in their department.
+#### We then looked at bilingual needs of the government by identifying job opportunities and pay received by individuals across agencies in the Illinoi government. Finally we saw New York state authorities pay across multiple authorities in the state of New York giving us a comparison between pay received by state authorities and government agencies in Illinois.
+
